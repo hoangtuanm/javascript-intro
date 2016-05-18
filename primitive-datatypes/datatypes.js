@@ -1,4 +1,4 @@
-// Numbers
+//Numbers
 4
 9.3
 -10
@@ -11,8 +11,14 @@
 true
 false
 
-//null
-null
+//Undefined
+//Variables that are declared but no
+//intialized are undefined:
+//The following variables are undefined:
+var name;
+var age;
 
-//undefine
-undefined
+//null
+//null is "explicitly nothing"
+var currentPlayer = "Charlie";
+currentPlayer = null;	//Game over
