@@ -1,2 +1,3 @@
 # javascript-intro
-JavaScript: Introduction
+* JavaScript: Introduction
+  * 5 Primitives Datatypes
