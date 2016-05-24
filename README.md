@@ -1,4 +1,3 @@
-# js-intro
-* JavaScript: Introduction
-  * Basic
-  * Control Flow
+# js-ref
+* Basic
+* Control Flow
