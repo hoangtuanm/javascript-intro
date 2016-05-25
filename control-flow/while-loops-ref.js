@@ -42,6 +42,25 @@ while (counter <= 50) {
 	counter+= 1;
 }
 
+//Array Count
+//Number of days to count
+var days = ["Mon", "Tue", "Wed", "Thu", "Fri"];
+
+//Initialize counter
+var countDays = 0;
+
+//Loop through array to find number of day count
+while (countDays < days.length) {
+  console.log(days[countDays]);
+  countDays++; 
+
+ //Output
+Mon
+Tue
+Wed
+Thu
+Fri
+4
 
 
 
