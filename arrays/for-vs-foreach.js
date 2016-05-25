@@ -1,0 +1,27 @@
+//Two different method for same result
+
+//forEach
+var numbers	= [1,2,3,4,5,6,7,8,9,10];
+
+numbers.forEach(function(color) {
+	if (color % 3 === 0) {
+		console.log(color);
+	}
+});
+//output
+3
+6
+9
+
+//for
+var numbers	= [1,2,3,4,5,6,7,8,9,10];
+
+for (var i = 0; i < numbers.length; i++) {
+	if (numbers[i] % 3 === 0) {
+		console.log(numbers[i]);
+	}
+}
+//output
+3
+6
+9
